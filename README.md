@@ -29,4 +29,4 @@ Programmer, Web Developer and Cyber Security enthusiast. 😄
 <img width="30" src="./images/react.png">&nbsp;&nbsp;&nbsp;
 <img width="30" src="./images/redux.png">&nbsp;&nbsp;&nbsp;
 
-## Thank for visiting 🙂
+## Thanks for visiting 🙂
