@@ -30,3 +30,6 @@ Programmer, Web Developer and Cyber Security enthusiast. 😄
 <img width="30" src="./images/redux.png">&nbsp;&nbsp;&nbsp;
 
 ## Thanks for visiting 🙂
+
+### Feeling Generous?
+#### 0x71269C7DdF390B104788cdEab9D0C17d7Cc03b09 (Ether) 🤑
