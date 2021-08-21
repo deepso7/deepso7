@@ -10,7 +10,7 @@ Programmer, Web Developer and Cyber Security enthusiast. 😄
   <a href="https://twitter.com/Deepso7" target="_blank"><img width="30" src="./images/tw.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:deeps.o7o8.y@gmail.com"><img width="30" src="./images/gmail.png"></a>
 
-- 📘Languages and Teachnologis
+- 📘Languages and Technologies
   - Python
   - C/C++
   - JavaScript
